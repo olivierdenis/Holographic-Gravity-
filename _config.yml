@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Holographic Gravity
-description: subtitle | affiliations | motto
+description: Holographic Gravity: Where Boundaries Shape Reality
 
 baseurl: /Holographic-Gravity- #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -13,15 +13,16 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+#twitter: "#"
+#stackoverflow: "#"
+github: "olivierdenis"
+researchgate: "Olivier-Denis-4"
+orcid: "0000-0003-0448-7154"
+#quora: "#"
+#instagram: "#"
+linkedin: "olivier-denis-amon/"
+facebook: "olivier.denis.amon"
+
 
 
 # Markdown
