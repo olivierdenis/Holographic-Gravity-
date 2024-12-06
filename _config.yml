@@ -15,15 +15,13 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 #twitter: "#"
 #stackoverflow: "#"
-github: "olivierdenis"
-researchgate: "Olivier-Denis-4"
-orcid: "0000-0003-0448-7154"
+#github: "olivierdenis"
+#researchgate: "Olivier-Denis-4"
+#orcid: "0000-0003-0448-7154"
 #quora: "#"
 #instagram: "#"
-linkedin: "olivier-denis-amon/"
-facebook: "olivier.denis.amon"
-
-
+#linkedin: "olivier-denis-amon/"
+#facebook: "olivier.denis.amon"
 
 # Markdown
 highlighter: rouge
